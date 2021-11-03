@@ -1,0 +1,5 @@
+# Unvaccinated-Britain
+## A deeper look at the vaccine holdouts in the UK
+Since the first COVID-19 vaccine was granted regulatory approval by the UK medicines regulator MHRA on December 2nd 2020, the question that has come across the mind of every brit has been whether or not they would take the vaccine against the coronavirus.The COVID-19 vaccine has become a primary focus for the government as it aims to increase the size of the vaccinated population. According to the UK Government, the percentage of those with at least one dose has increased from 60% on the 1st of May to 83.7% on the 1st of September. However, there is still a significant amount of people who have shown unwillingness or are vehemently refusing to take the vaccine.
+
+The vaccine holdouts account for over --% of cases, deaths and hospitalisations according to --. This pool of people could become a problem to everyone as they may open the door for even more dangerous mutations than the delta variant and could eventually challenge the effectiveness of existing vaccines. So who are these people and how can the government try to address this issue with a data-driven approach?
